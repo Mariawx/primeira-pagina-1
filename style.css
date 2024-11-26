@@ -1,6 +1,6 @@
 *{
       margin : 0;
-        font-family: arial;
+     font-family: arial;
 
         }  
         header{
@@ -9,14 +9,14 @@
                 }
                     body{
                         font-family: 'arial';
-                            background-color: #0e031c;
-                                color:rgba(255, 0, 17, 0.886);
+                            background-color:#9a2c84;
+                                color:rgba(209, 59, 166, 0.886);
                                     margin:10px auto;
                                         text-align: center;
                                         }
 
                                         .menu{
-                                        color:aquamarine;
+                                        color:rgb(115, 215, 231);
                                         text-decoration: 0;
                                         font-size: 24px;
                                         margin: 5px;
@@ -30,7 +30,7 @@
                                             .box{
                                                 width:300px;
                                                     height:200px;
-                                                        background-color: #b2df85;
+                                                        background-color: #9fea26;
                                                             border-radius: 10px;
                                                                 margin:2%;
                                                                 }
@@ -39,7 +39,7 @@
                                                                         padding: 2% 0;
                                                                         }
                                                                         #a{
-                                                                            background-color:rgb(113, 113, 167);
+                                                                            background-color:rgb(191, 191, 233);
                                                                                 margin:0;
                                                                                     border-radius: 10px;
                                                                                         display:flex;
